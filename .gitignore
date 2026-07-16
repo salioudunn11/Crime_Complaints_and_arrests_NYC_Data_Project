@@ -1,4 +1,5 @@
 .venv/
 .ipynb_checkpoints/
+.DS_Store
 complaints_2025.csv
 arrests_2025.csv
