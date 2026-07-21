@@ -21,5 +21,5 @@ curl --progress-bar --get "https://data.cityofnewyork.us/resource/8h9b-rp9u.csv"
 Install the libraries
 
 ```bash
-pip install pandas seaborn matplotlib geopandas
+pip install pandas seaborn matplotlib geopandas scikit-learn
 ```
